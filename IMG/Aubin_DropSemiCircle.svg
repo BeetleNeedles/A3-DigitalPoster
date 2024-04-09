@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_4_copy" data-name="Layer 4 copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430.21 410.8">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 6.97 6.97;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #e6e7e8;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #2b2b2b;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="m15.44,305.23c0-110.27,89.39-199.66,199.66-199.66s199.66,89.39,199.66,199.66"/>
+  <g>
+    <path class="cls-2" d="m15.44,305.23c0-1.17.01-2.34.03-3.5"/>
+    <path class="cls-1" d="m15.71,294.76c5.44-105.41,92.63-189.2,199.39-189.2s195.86,85.64,199.54,192.68"/>
+    <path class="cls-2" d="m414.74,301.73c.02,1.16.03,2.33.03,3.5"/>
+  </g>
+</svg>

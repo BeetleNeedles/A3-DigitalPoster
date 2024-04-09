@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2_copy" data-name="Layer 2 copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430.21 410.8">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 7.01 7.01;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #e6e7e8;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        fill: #2b2b2b;
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 7.11 7.11;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="2" y="89.53" width="426.21" height="238.23"/>
+  <g>
+    <polyline class="cls-2" points="428.21 324.26 428.21 327.76 424.71 327.76"/>
+    <line class="cls-3" x1="417.61" y1="327.76" x2="9.05" y2="327.76"/>
+    <polyline class="cls-2" points="5.5 327.76 2 327.76 2 324.26"/>
+    <line class="cls-1" x1="2" y1="317.26" x2="2" y2="96.54"/>
+    <polyline class="cls-2" points="2 93.03 2 89.53 5.5 89.53"/>
+    <line class="cls-3" x1="12.61" y1="89.53" x2="421.16" y2="89.53"/>
+    <polyline class="cls-2" points="424.71 89.53 428.21 89.53 428.21 93.03"/>
+    <line class="cls-1" x1="428.21" y1="100.04" x2="428.21" y2="320.76"/>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+/* FIRST TEST */
+#draggable { 
+    width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; 
+}
+#droppable { 
+    width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; 
+}
+
+
+/* SECOND TEST */
+#drag,#dragtwo, #drop {
+    width:150px;
+    height:150px;
+    background:black;
+    color:white;
+    padding:1em;
+    margin:50px;
+    display:inline-block
+}
+
+#dragtwo { border-radius:20%; }
+
+#drag { border-radius:50%; }
+
+#drag.dropped {
+    transform:scale(0.5);
+}
+#drag:hover {
+    cursor:move;
+}
+
+#drop.dropped {
+    background:green;
+}
+
+.drop_caption {
+    display:none;
+}
+
+.drop_caption.hovered {
+    display:block;
+}
+
+#text{
+    opacity:0;
+}
+
+#text.dropped{
+    opacity:100;
+}
+body.dropped{
+    background-color: teal;
+}
+body.droppedtwo{
+    background-color: pink;
+}
+
+
+/* THIRD TEST */
+#dropbox{
+    height: 60px;
+  width: 200px;
+  background-color: #555;
+} 
+
+#KileyDrag{
+    font-size: 1em;
+}
+#KileyDrag.dropped{
+    font-size: 2.5em;
+    transition: all .5s linear;   
+}
+#anther_description{
+    opacity:0;
+}
+#anther_description.dropped{
+    opacity:100
+}
+
